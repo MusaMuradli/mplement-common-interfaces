@@ -1,0 +1,15 @@
+C:\Users\Owner\Desktop\ImplementCommonInterfaces\ImplementCommonInterfaces\bin\Debug\net6.0\ImplementCommonInterfaces.exe
+C:\Users\Owner\Desktop\ImplementCommonInterfaces\ImplementCommonInterfaces\bin\Debug\net6.0\ImplementCommonInterfaces.deps.json
+C:\Users\Owner\Desktop\ImplementCommonInterfaces\ImplementCommonInterfaces\bin\Debug\net6.0\ImplementCommonInterfaces.runtimeconfig.json
+C:\Users\Owner\Desktop\ImplementCommonInterfaces\ImplementCommonInterfaces\bin\Debug\net6.0\ImplementCommonInterfaces.dll
+C:\Users\Owner\Desktop\ImplementCommonInterfaces\ImplementCommonInterfaces\bin\Debug\net6.0\ImplementCommonInterfaces.pdb
+C:\Users\Owner\Desktop\ImplementCommonInterfaces\ImplementCommonInterfaces\obj\Debug\net6.0\ImplementCommonInterfaces.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\ImplementCommonInterfaces\ImplementCommonInterfaces\obj\Debug\net6.0\ImplementCommonInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\ImplementCommonInterfaces\ImplementCommonInterfaces\obj\Debug\net6.0\ImplementCommonInterfaces.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\ImplementCommonInterfaces\ImplementCommonInterfaces\obj\Debug\net6.0\ImplementCommonInterfaces.AssemblyInfo.cs
+C:\Users\Owner\Desktop\ImplementCommonInterfaces\ImplementCommonInterfaces\obj\Debug\net6.0\ImplementCommonInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\ImplementCommonInterfaces\ImplementCommonInterfaces\obj\Debug\net6.0\ImplementCommonInterfaces.dll
+C:\Users\Owner\Desktop\ImplementCommonInterfaces\ImplementCommonInterfaces\obj\Debug\net6.0\refint\ImplementCommonInterfaces.dll
+C:\Users\Owner\Desktop\ImplementCommonInterfaces\ImplementCommonInterfaces\obj\Debug\net6.0\ImplementCommonInterfaces.pdb
+C:\Users\Owner\Desktop\ImplementCommonInterfaces\ImplementCommonInterfaces\obj\Debug\net6.0\ImplementCommonInterfaces.genruntimeconfig.cache
+C:\Users\Owner\Desktop\ImplementCommonInterfaces\ImplementCommonInterfaces\obj\Debug\net6.0\ref\ImplementCommonInterfaces.dll
